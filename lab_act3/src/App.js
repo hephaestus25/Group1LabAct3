@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.css';
 import './App.css';
-import Home from './components/pages/Home'
+import Home from './pages/Home'
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-function App() {
+export default function App() {
   return (
     <Router>
       <Routes>
@@ -14,6 +14,3 @@ function App() {
     </Router>
   );
 }
-
-
-export default App;

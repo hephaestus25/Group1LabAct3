@@ -1,0 +1,106 @@
+.header {
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid #eee;
+    /* background: #fff; */
+    background: #000000;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+  
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 1rem;
+}
+
+.nav-menu {
+    display: flex;
+}
+
+.logo
+{
+    color: #C48A47;
+    font-Size: 28px;
+}
+  
+.nav-menu li {
+    padding: 0 1rem;
+}
+  
+.nav-menu a {
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+  
+  
+.hamburger {
+    display: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    .btn-group {
+        display: none;
+    }
+}
+  
+@media screen and (max-width:1240px) {
+    .hamburger {
+        display: flex;
+    }
+  
+    .nav-menu {
+        position: absolute;
+        flex-direction: column;
+        justify-content: start;
+        top: 90px;
+        right: -100%;
+        width: 50%;
+        height: 100vh;
+        transition: 0.4s;
+        z-index: 2;
+        background: rgb(0, 0, 0);
+        border-left: 1px solid #eee;
+    }
+  
+    .nav-menu.active {
+        right: 0;
+    }
+  
+    .nav-menu li {
+        padding: 1rem;
+        width: 100%;
+        border-bottom: 1px solid #eee;
+    }
+  
+    .nav-menu a {
+        font-size: 1.2rem;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.nav {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+ul{
+  list-style-type: none;
+}
+ 
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a &:hover {
+    color: #C48A47;
+}
+ 
