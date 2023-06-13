@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import './Item.css';
+import './item.css';
 import { useMediaQuery } from 'react-responsive';
 
 const Item = () => {
