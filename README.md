@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Image" />
 </p>
 
-Welcome to Biglang Gwapo Barber Shop Web Page repository! This webpage is designed to showcase sample images of different haircuts and haircuts of celebrities. It provides a visually appealing interface to help clients choose their desired hairstyles and get inspiration from popular celebrity looks. 
+Welcome to Biglang Gwapo Barber Shop Web Page repository! This webpage is designed to showcase different haircuts and haircuts of celebrities. This website can also be used as a business website for a barber shop business. The goal of the project is to provide a visually appealing interface to help clients choose their desired hairstyles and get inspiration from popular celebrity looks
 
 ## Table of Contents
 - [Features](#features)
