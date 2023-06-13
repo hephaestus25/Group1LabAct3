@@ -41,16 +41,18 @@ To run this project locally, follow these steps:
 ```</code></pre>
 
 2. Navigate to the project directory:
+<pre><code>```
 <p align="center">
   cd barber-shop-webpage
 </p>
-```
+```</code></pre>
 
 3. Install the dependencies using a package manager such as npm or yarn:
+<pre><code>```
 <p align="center">
   npm install or yarn install
 </p>
-```
+```</code></pre>
 
 
 ## Usage
