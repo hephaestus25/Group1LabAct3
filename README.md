@@ -63,7 +63,6 @@ Once you have completed the installation steps, you can run the project using th
   npm start or yarn start
 </p>
 </code></pre>
-npm start
 
 This will start the development server and open the web page in your default browser. You can then explore the different haircuts and celebrity images on the webpage.
 
