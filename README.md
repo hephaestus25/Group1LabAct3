@@ -34,6 +34,7 @@ This web page is built using the following frameworks:
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+
 git clone <repository_url>
 
 2. Navigate to the project directory:
