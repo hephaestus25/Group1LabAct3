@@ -66,7 +66,9 @@ Once you have completed the installation steps, you can run the project using th
 </code></pre>
 
 This will start the development server and open the web page in your default browser. You can then explore the different haircuts and celebrity images on the webpage. You can now edit the project!
-![Animation](happycoding.gif?autoplay=true)
+<p align="center">
+  <img src="happycoding.gif" alt="Animation" width="500" height="300" autoplay="true" loop="true">
+</p>
 
 ## 😭😤😩😡 Challenges 😭😤😩😡
 
