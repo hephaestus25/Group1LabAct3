@@ -27,7 +27,8 @@ This web page is built using the following frameworks:
 
 - [React.js](https://reactjs.org/): A JavaScript library for building user interfaces. React.js allows us to create reusable UI components and efficiently manage state changes.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework that provides a set of pre-designed CSS classes to rapidly build custom user interfaces.
-- [react-multi-carousel](https://www.npmjs.com/package/react-multi-carousel): A lightweight, customizable carousel component for React.js. It enables us to create responsive carousels with multiple items on each slide.
+- [Material-UI](https://material-ui.com/): A popular React UI framework that provides a set of customizable, pre-designed components following the Material Design guidelines. Material-UI makes it easier to build aesthetically pleasing and responsive web interfaces.
+
 
 ## Installation
 
