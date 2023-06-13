@@ -73,7 +73,7 @@ During the development process, we encountered a few notable challenges:
 
 - **Responsive Design**: Ensuring that the webpage looks and functions well across different devices and screen sizes required careful consideration and testing.
 - **Integration of React.js and Tailwind CSS**: Integrating these two frameworks seamlessly and leveraging their respective features and best practices was a learning experience for our team.
-- **Customizing the Carousel Component**: Configuring and customizing the react-multi-carousel component to suit our specific needs took some experimentation and fine-tuning.
+- **Merging of Codes Written by Each Member**: Since we worked collaborately, we divided the development of each component among our group. Merging each component to build the website as a whole was challenging as each of us have different coding styles and there are instances that we used the same variables and classnames so the designs and contents of the first output was a bit messed up.
 
 ## Contributing
 
