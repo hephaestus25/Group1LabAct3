@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 1. Navigate to the project directory:
 <pre><code>```
 <p align="center">
-  git clone <repository_url>
+  git clone '<repository_url>'
 </p>
 ```</code></pre>
 
