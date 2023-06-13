@@ -34,14 +34,24 @@ This web page is built using the following frameworks:
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-
-git clone <repository_url>
+<pre><code>```markdown
+<p align="center">
+  git clone <repository_url>
+</p>
+```
 
 2. Navigate to the project directory:
-cd barber-shop-webpage
+<p align="center">
+  cd barber-shop-webpage
+</p>
+```
 
 3. Install the dependencies using a package manager such as npm or yarn:
-npm install
+<p align="center">
+  npm install or yarn install
+</p>
+```
+
 
 ## Usage
 
